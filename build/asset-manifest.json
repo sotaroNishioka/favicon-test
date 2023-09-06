@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/favicon-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/favicon-test/static/js/main.e312079a.chunk.js",
+    "main.js.map": "/favicon-test/static/js/main.e312079a.chunk.js.map",
+    "runtime-main.js": "/favicon-test/static/js/runtime-main.a02e183d.js",
+    "runtime-main.js.map": "/favicon-test/static/js/runtime-main.a02e183d.js.map",
+    "static/js/2.70ccffbc.chunk.js": "/favicon-test/static/js/2.70ccffbc.chunk.js",
+    "static/js/2.70ccffbc.chunk.js.map": "/favicon-test/static/js/2.70ccffbc.chunk.js.map",
+    "static/js/3.5548ea78.chunk.js": "/favicon-test/static/js/3.5548ea78.chunk.js",
+    "static/js/3.5548ea78.chunk.js.map": "/favicon-test/static/js/3.5548ea78.chunk.js.map",
+    "index.html": "/favicon-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/favicon-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.70ccffbc.chunk.js.LICENSE.txt": "/favicon-test/static/js/2.70ccffbc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/favicon-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a02e183d.js",
+    "static/js/2.70ccffbc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e312079a.chunk.js"
+  ]
+}
