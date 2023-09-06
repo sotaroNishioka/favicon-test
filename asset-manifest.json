@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/favicon-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/favicon-test/static/js/main.bdf680f4.chunk.js",
-    "main.js.map": "/favicon-test/static/js/main.bdf680f4.chunk.js.map",
+    "main.js": "/favicon-test/static/js/main.c62e8319.chunk.js",
+    "main.js.map": "/favicon-test/static/js/main.c62e8319.chunk.js.map",
     "runtime-main.js": "/favicon-test/static/js/runtime-main.a02e183d.js",
     "runtime-main.js.map": "/favicon-test/static/js/runtime-main.a02e183d.js.map",
     "static/js/2.70ccffbc.chunk.js": "/favicon-test/static/js/2.70ccffbc.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a02e183d.js",
     "static/js/2.70ccffbc.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.bdf680f4.chunk.js"
+    "static/js/main.c62e8319.chunk.js"
   ]
 }
